@@ -58,7 +58,7 @@ Integrated_Main_Code.py
   <img src="https://user-images.githubusercontent.com/35250492/110467036-dacd8680-8119-11eb-8af3-d3d588813009.png" width="500">
   <br>
   <br>
-- 외장설계를 바탕으로 PC를 덮을 커버외장 설계
+- 외장설계를 바탕으로 PC를 덮을 커버외장 설계  
   <img src="https://user-images.githubusercontent.com/35250492/110467039-db661d00-8119-11eb-9e06-638ce0b2c5ef.png" width="500">  
   <br>
   <br>
