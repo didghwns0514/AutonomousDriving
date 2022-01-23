@@ -46,7 +46,7 @@ Integrated_Main_Code.py
 | "            | Localization               | `Localization`       | 김동민<br>이종국 |
 | **Control**  | Car Speed/Steering Control | `Steering_.py`       |      박지환      |
 
-- Project Design & Management: 나윤서
+<br>
 
 # Development
 
@@ -58,7 +58,7 @@ Integrated_Main_Code.py
   <img src="https://user-images.githubusercontent.com/35250492/110467036-dacd8680-8119-11eb-8af3-d3d588813009.png" width="500">
   <br>
   <br>
-- 외장설계를 바탕으로 PC를 덮을 커버외장 설계
+- 외장설계를 바탕으로 PC를 덮을 커버외장 설계  
   <img src="https://user-images.githubusercontent.com/35250492/110467039-db661d00-8119-11eb-9e06-638ce0b2c5ef.png" width="500">  
   <br>
   <br>
@@ -103,7 +103,15 @@ Integrated_Main_Code.py
 
 ## Report
 
-[최종*결과*보고서](https://github.com/jungAcat/HEVEN_AutonomousCar_2017/files/6108269/WE-UP.docx)
+[최종 결과 보고서](https://github.com/jungAcat/HEVEN_AutonomousCar_2017/files/6108269/WE-UP.docx)
+<br>
+<br>
+
+## 안전학회 논문작성
+
+[논문링크](https://github.com/didghwns0514/AutonomousDriving/blob/master/2017%20한국자동차안전학회%20추계학술대회%20논문집.docx)
+<br>
+<br>
 
 # The End
 
