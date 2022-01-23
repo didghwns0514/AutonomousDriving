@@ -57,15 +57,21 @@ Integrated_Main_Code.py
 - 외장 제작을 위해 CAD 로 차량 외장을 역설계 진행  
   <img src="https://user-images.githubusercontent.com/35250492/110467036-dacd8680-8119-11eb-8af3-d3d588813009.png" width="500">
   <br>
+  <br>
 - 외장설계를 바탕으로 PC를 덮을 커버외장 설계
   <img src="https://user-images.githubusercontent.com/35250492/110467039-db661d00-8119-11eb-9e06-638ce0b2c5ef.png" width="500">  
   <br>
+  <br>
 - 몰드 제작 후 FRP 제작  
   <img src="https://user-images.githubusercontent.com/35250492/110467741-b6be7500-811a-11eb-8fdf-4aaae04dbc25.png" width="500">  
+  <br>
   <img src="https://user-images.githubusercontent.com/35250492/110467587-8c6cb780-811a-11eb-9c50-1a5048fefc98.png" width="500">  
+  <br>
   <br>
 - 완성  
   <img src="https://user-images.githubusercontent.com/35250492/110467929-f2593f00-811a-11eb-96d1-ff9a70a1945b.png" width="500">
+  <br>
+  <br>
 
 # Competition 결과
 
